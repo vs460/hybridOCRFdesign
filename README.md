@@ -1,0 +1,3 @@
+# hybridOCRFdesign
+
+Paper in review, stay tuned...
